@@ -1,0 +1,5 @@
+![Screenshot_2024-02-19-00-47-21-08_fa7fe5e106840312929130dcd7bc60e3](https://github.com/MyProjects-5/TIC-TAC-TOE/assets/140932670/bf9692b8-6fac-45af-b5b8-f6540f1162fa)
+![Screenshot_2024-02-19-00-46-49-05_fa7fe5e106840312929130dcd7bc60e3](https://github.com/MyProjects-5/TIC-TAC-TOE/assets/140932670/35cab1c6-8ee2-43d6-b044-eaf06fa07109)
+![Screenshot_2024-02-19-00-46-30-10_fa7fe5e106840312929130dcd7bc60e3](https://github.com/MyProjects-5/TIC-TAC-TOE/assets/140932670/8f6fd4cb-205d-48dc-8502-2e760c637bb5)
+![Screenshot_2024-02-19-00-45-41-93_fa7fe5e106840312929130dcd7bc60e3](https://github.com/MyProjects-5/TIC-TAC-TOE/assets/140932670/c22a0ca7-c88c-43c5-8ea4-777257f8a632)
+![Screenshot_2024-02-19-00-45-21-29_fa7fe5e106840312929130dcd7bc60e3](https://github.com/MyProjects-5/TIC-TAC-TOE/assets/140932670/c0aac12c-4a76-47b3-8219-bc74524e97b0)
